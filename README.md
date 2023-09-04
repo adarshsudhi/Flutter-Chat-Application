@@ -28,7 +28,7 @@ npm start
  <ul>
      <li><a href="https://pub.dev/packages/firebase_core">Firebase</a> : Storing,Authentcating and Push Notification using FCM(FireBase Cloud Messaging)</li>
      <li><a href="https://pub.dev/packages/agora_uikit"> Agora RTC uikit</a>: For Video Call Functionality</li>
-     <li><a href="[https://pub.dev/packages/agora_uikit](https://pub.dev/packages/get_it)">get_it </a>: dependency injection (DI) service locator that allows you to register and retrieve instances of objects or services throughout your Flutter application</li>
+     <li><a href="https://pub.dev/packages/get_it">get_it </a>: dependency injection (DI) service locator that allows you to register and retrieve instances of objects or services throughout your Flutter application</li>
      <li>speech_to_text : which allows you to convert spoken words into text</li>
      <li>  awesome_notifications : used to create and manage notifications within your Flutter application. It provides extensive features and customization options for creating various types of notifications</li>
  </ul>
