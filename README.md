@@ -1,8 +1,12 @@
 # chat_application
 
-A new Flutter project.
+A Chat Application Build Flutter Firebase and Video Call Functionlity using Agora RTC Uikit 
 
-## Getting Started
+##Packages And Features
+ <ul>
+     <li>Firebase : Storing,Authentcating and Push Notification using FCM(FireBase Cloud Messaging)</li>
+     <li>Agora RTC uikit: For Video Call Functionality</li>
+ </ul>
 
 This project is a starting point for a Flutter application.
 
