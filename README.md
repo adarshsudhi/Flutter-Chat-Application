@@ -13,7 +13,7 @@ flutter run
 
 
 ## Nodejs Server
-Nodejs server is used to create the Token for Agora RTC Also To update the user online and online status
+Nodejs server is used to create the Token for Agora RTC Also To update the user online and offline status
 
 
 <pre>
