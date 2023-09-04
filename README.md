@@ -26,7 +26,7 @@ npm start
 
 ## Packages And Features
  <ul>
-     <li>Firebase : Storing,Authentcating and Push Notification using FCM(FireBase Cloud Messaging)</li>
+     <li><a href="https://pub.dev/packages/firebase_core">Firebase</a> : Storing,Authentcating and Push Notification using FCM(FireBase Cloud Messaging)</li>
      <li>Agora RTC uikit: For Video Call Functionality</li>
      <li>get_it : dependency injection (DI) service locator that allows you to register and retrieve instances of objects or services throughout your Flutter application</li>
      <li>speech_to_text : which allows you to convert spoken words into text</li>
