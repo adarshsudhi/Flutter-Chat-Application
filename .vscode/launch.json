@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (lib\\features\\Domain\\UseCaseses\\Firebase_UseCase\\CreateGroup\\GetGroupsUseCase.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib\\features\\Domain\\UseCaseses\\Firebase_UseCase\\CreateGroup\\GetGroupsUseCase.dart"
+        }
+    ]
+}
