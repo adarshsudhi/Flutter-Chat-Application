@@ -6,7 +6,7 @@ A Chat Application Build Flutter Firebase and Video Call Functionlity using Agor
 
 Nodejs server is used to create the Token for Agora RTC Also To update the user online and online status
 
-RUN : npm install and npm start in the server Folder For Creating the token for Agora Video Call
+RUN : <strong>npm install</strong> and npm start in the server Folder For Creating the token for Agora Video Call
 
 ## Packages And Features
  <ul>
