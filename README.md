@@ -34,8 +34,7 @@ npm start
  </ul>
 
 ## ScreenShots
-
- assets/photo_10_2023-09-04_20-11-32.jpg
+ <img src="https://github.com/adarshsudhi/Flutter-Chat-Application/blob/main/assets/photo_10_2023-09-04_20-11-32.jpg?raw=true" width="150" height="320"/> 
 
 
 
