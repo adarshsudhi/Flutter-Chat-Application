@@ -2,6 +2,7 @@
 
 A Chat Application Build Flutter Firebase and Video Call Functionlity using Agora RTC Uikit
 
+## setup
 <pre>
 <code>
 flutter clean
