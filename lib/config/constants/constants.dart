@@ -4,7 +4,7 @@ import 'package:fluttertoast/fluttertoast.dart';
 String ServerKey = 'Your Google Api Server Key';
 String AppCertificate = 'Enter the Agora AppCertificate';
 String AppId = 'Agora rtc AppID';
-String Baseurl = 'http://192.168.18.49:3000/generate/rtc';
+String Baseurl = 'http://your ip:3000/generate/rtc';
 
 String Endpoint(String channelname,String uid){
    return '${Baseurl}/$channelname/publisher/uid/$uid';
